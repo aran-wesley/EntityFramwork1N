@@ -1,0 +1,12 @@
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\bin\Debug\EntityFramwork1N.exe.config
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\bin\Debug\EntityFramwork1N.exe
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\bin\Debug\EntityFramwork1N.pdb
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\obj\Debug\EntityFramwork1N.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\obj\Debug\EntityFramwork1N.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\obj\Debug\EntityFramwork1N.csproj.CopyComplete
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\obj\Debug\EntityFramwork1N.exe
+C:\Users\Andrew\source\repos\EntityFramwork1N\EntityFramwork1N\obj\Debug\EntityFramwork1N.pdb
